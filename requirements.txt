@@ -1,6 +1,6 @@
 pandas
 joblib
 pydantic
-Fastapi
+fastapi
 uvicorn
-sckit-learn
+scikit-learn
