@@ -58,7 +58,7 @@ def load_logistic_model():
 #     model.fit(X_train_scale, Y_train)
 #     model.predict(X_test_scale)
    
-#     Joblib.dump(model, LOGISTIC_MODEL_PATH)
+#     joblib.dump(model, LOGISTIC_MODEL_PATH)
 #     joblib.dump(scaler, LOGISTIC_SCALER_PATH) 
   
 #     return scaler, model
